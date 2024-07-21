@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stagechara/" zoom="0.8">
+	<gf/>
+	<sprite x="-436" y="-460" sprite="BG" name="BG">
+		<property type="float" value="1.1" name="scale.x"/>
+		<property type="float" value="1.2" name="scale.y"/>
+	</sprite>
+	<sprite x="-169.5" y="423.5" sprite="Flowers" name="Flowers">
+		<property type="float" value="1.1" name="scale.x"/>
+	</sprite>
+	<dad x="110" y="-44"/>
+	<bf x="806.5" y="-108.5"/>
+	<combo x="783.5" y="129"/>
+	<sprite x="-229.9" y="-348.5" sprite="Light" scrollx="0.9" name="Light"/>
+	<sprite scrolly="1.5" scrollx="1.5" x="-229.9" sprite="PARTICULAS" name="PARTICULAS">
+		<anim x="0" loop="true" y="0" fps="24" anim="partículas" type="loop" name="idle"/>
+	</sprite>
+</stage>

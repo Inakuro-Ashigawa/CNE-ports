@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="demon chara enemy.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CHARA CHAMOY0000" x="5" y="5" width="394" height="657" frameX="-16" frameY="-13" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0001" x="404" y="5" width="472" height="657" frameX="-16" frameY="-13" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0002" x="881" y="5" width="491" height="628" frameX="-19" frameY="-42" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0003" x="1377" y="5" width="492" height="628" frameX="-19" frameY="-42" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0004" x="1874" y="5" width="475" height="626" frameX="-19" frameY="-44" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0005" x="2354" y="5" width="463" height="626" frameX="-19" frameY="-44" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0006" x="2822" y="5" width="480" height="641" frameX="-2" frameY="-29" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0007" x="3307" y="5" width="480" height="641" frameX="-2" frameY="-29" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0008" x="3792" y="5" width="481" height="670" frameX="-1" frameY="0" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0009" x="4278" y="5" width="481" height="670" frameX="-1" frameY="0" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0010" x="4764" y="5" width="482" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0011" x="4764" y="5" width="482" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0012" x="4764" y="5" width="482" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0013" x="5251" y="5" width="482" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0014" x="5738" y="5" width="482" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0015" x="6225" y="5" width="518" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0016" x="6748" y="5" width="374" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0017" x="7127" y="5" width="488" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0018" x="6748" y="5" width="374" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0019" x="6748" y="5" width="374" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0020" x="6748" y="5" width="374" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0021" x="6748" y="5" width="374" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0022" x="6748" y="5" width="374" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0023" x="6748" y="5" width="374" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA CHAMOY0024" x="6748" y="5" width="374" height="667" frameX="0" frameY="-3" frameWidth="518" frameHeight="670"/>
+	<SubTexture name="CHARA SAVES0000" x="7620" y="5" width="413" height="667" frameX="-33" frameY="0" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0001" x="7620" y="5" width="413" height="667" frameX="-33" frameY="0" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0002" x="5" y="680" width="414" height="664" frameX="-27" frameY="-3" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0003" x="5" y="680" width="414" height="664" frameX="-27" frameY="-3" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0004" x="424" y="680" width="389" height="651" frameX="-19" frameY="-16" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0005" x="424" y="680" width="389" height="651" frameX="-19" frameY="-16" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0006" x="818" y="680" width="399" height="661" frameX="-12" frameY="-6" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0007" x="818" y="680" width="399" height="661" frameX="-12" frameY="-6" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0008" x="1222" y="680" width="407" height="657" frameX="-13" frameY="-9" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0009" x="1222" y="680" width="407" height="657" frameX="-13" frameY="-9" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0010" x="1634" y="680" width="412" height="647" frameX="-37" frameY="-28" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0011" x="2051" y="680" width="592" height="647" frameX="0" frameY="-28" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0012" x="2648" y="680" width="498" height="639" frameX="-22" frameY="-28" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0013" x="3151" y="680" width="554" height="639" frameX="-22" frameY="-28" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0014" x="3710" y="680" width="521" height="651" frameX="-16" frameY="-16" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0015" x="4236" y="680" width="544" height="651" frameX="-16" frameY="-16" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0016" x="4785" y="680" width="549" height="653" frameX="-20" frameY="-14" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0017" x="5339" y="680" width="530" height="653" frameX="-20" frameY="-14" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0018" x="5874" y="680" width="528" height="651" frameX="-22" frameY="-16" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0019" x="6407" y="680" width="520" height="651" frameX="-22" frameY="-16" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0020" x="6932" y="680" width="519" height="650" frameX="-23" frameY="-17" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0021" x="7456" y="680" width="546" height="650" frameX="-23" frameY="-17" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0022" x="7456" y="680" width="546" height="650" frameX="-23" frameY="-17" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0023" x="5" y="1349" width="527" height="650" frameX="-23" frameY="-17" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0024" x="5" y="1349" width="527" height="650" frameX="-23" frameY="-17" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0025" x="6932" y="680" width="519" height="650" frameX="-23" frameY="-17" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0026" x="6932" y="680" width="519" height="650" frameX="-23" frameY="-17" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0027" x="7456" y="680" width="546" height="650" frameX="-23" frameY="-17" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0028" x="7456" y="680" width="546" height="650" frameX="-23" frameY="-17" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0029" x="5" y="1349" width="527" height="650" frameX="-23" frameY="-17" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0030" x="5" y="1349" width="527" height="650" frameX="-23" frameY="-17" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0031" x="6932" y="680" width="519" height="650" frameX="-23" frameY="-17" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="CHARA SAVES0032" x="6932" y="680" width="519" height="650" frameX="-23" frameY="-17" frameWidth="592" frameHeight="675"/>
+	<SubTexture name="DEMON CHARA DOWN0000" x="537" y="1349" width="342" height="612" frameX="-32" frameY="-47" frameWidth="417" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA DOWN0001" x="884" y="1349" width="344" height="610" frameX="-29" frameY="-49" frameWidth="417" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA DOWN0002" x="884" y="1349" width="344" height="610" frameX="-29" frameY="-49" frameWidth="417" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA DOWN0003" x="1233" y="1349" width="344" height="605" frameX="-34" frameY="-54" frameWidth="417" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA DOWN0004" x="1582" y="1349" width="344" height="605" frameX="-34" frameY="-54" frameWidth="417" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA DOWN0005" x="1931" y="1349" width="391" height="608" frameX="-26" frameY="-51" frameWidth="417" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA DOWN0006" x="1931" y="1349" width="391" height="608" frameX="-26" frameY="-51" frameWidth="417" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA DOWN0007" x="2327" y="1349" width="335" height="642" frameX="-4" frameY="-17" frameWidth="417" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA DOWN0008" x="2667" y="1349" width="379" height="659" frameX="0" frameY="0" frameWidth="417" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA IDLE0000" x="3051" y="1349" width="412" height="668" frameX="0" frameY="-1" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0001" x="3468" y="1349" width="412" height="664" frameX="-1" frameY="-4" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0002" x="3885" y="1349" width="402" height="659" frameX="-6" frameY="-8" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0003" x="4292" y="1349" width="400" height="646" frameX="-6" frameY="-21" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0004" x="4292" y="1349" width="400" height="646" frameX="-6" frameY="-21" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0005" x="4697" y="1349" width="399" height="641" frameX="-6" frameY="-26" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0006" x="4697" y="1349" width="399" height="641" frameX="-6" frameY="-26" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0007" x="5101" y="1349" width="399" height="639" frameX="-6" frameY="-28" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0008" x="5505" y="1349" width="399" height="639" frameX="-6" frameY="-28" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0009" x="5909" y="1349" width="398" height="636" frameX="-7" frameY="-31" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0010" x="6312" y="1349" width="398" height="640" frameX="-8" frameY="-28" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0011" x="6312" y="1349" width="398" height="640" frameX="-8" frameY="-28" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0012" x="6715" y="1349" width="398" height="647" frameX="-10" frameY="-21" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0013" x="6715" y="1349" width="398" height="647" frameX="-10" frameY="-21" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0014" x="7118" y="1349" width="406" height="661" frameX="-4" frameY="-8" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0015" x="7529" y="1349" width="409" height="665" frameX="-2" frameY="-4" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0016" x="7529" y="1349" width="409" height="665" frameX="-2" frameY="-4" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0017" x="5" y="2022" width="410" height="667" frameX="-1" frameY="-2" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0018" x="5" y="2022" width="410" height="667" frameX="-1" frameY="-2" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0019" x="420" y="2022" width="411" height="668" frameX="0" frameY="-1" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0020" x="420" y="2022" width="411" height="668" frameX="0" frameY="-1" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0021" x="836" y="2022" width="411" height="669" frameX="0" frameY="0" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA IDLE0022" x="836" y="2022" width="411" height="669" frameX="0" frameY="0" frameWidth="413" frameHeight="669"/>
+	<SubTexture name="DEMON CHARA LEFT0000" x="1252" y="2022" width="505" height="632" frameX="-36" frameY="-46" frameWidth="652" frameHeight="678"/>
+	<SubTexture name="DEMON CHARA LEFT0001" x="1762" y="2022" width="536" height="643" frameX="0" frameY="-35" frameWidth="652" frameHeight="678"/>
+	<SubTexture name="DEMON CHARA LEFT0002" x="1762" y="2022" width="536" height="643" frameX="0" frameY="-35" frameWidth="652" frameHeight="678"/>
+	<SubTexture name="DEMON CHARA LEFT0003" x="2303" y="2022" width="472" height="651" frameX="-65" frameY="-27" frameWidth="652" frameHeight="678"/>
+	<SubTexture name="DEMON CHARA LEFT0004" x="2780" y="2022" width="472" height="653" frameX="-65" frameY="-25" frameWidth="652" frameHeight="678"/>
+	<SubTexture name="DEMON CHARA LEFT0005" x="3257" y="2022" width="395" height="678" frameX="-139" frameY="0" frameWidth="652" frameHeight="678"/>
+	<SubTexture name="DEMON CHARA LEFT0006" x="3257" y="2022" width="395" height="678" frameX="-139" frameY="0" frameWidth="652" frameHeight="678"/>
+	<SubTexture name="DEMON CHARA LEFT0007" x="3657" y="2022" width="431" height="663" frameX="-221" frameY="-4" frameWidth="652" frameHeight="678"/>
+	<SubTexture name="DEMON CHARA LEFT0008" x="3657" y="2022" width="431" height="663" frameX="-221" frameY="-4" frameWidth="652" frameHeight="678"/>
+	<SubTexture name="DEMON CHARA RIGHT0000" x="4093" y="2022" width="366" height="627" frameX="-80" frameY="-32" frameWidth="449" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA RIGHT0001" x="4464" y="2022" width="376" height="627" frameX="-73" frameY="-32" frameWidth="449" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA RIGHT0002" x="4464" y="2022" width="376" height="627" frameX="-73" frameY="-32" frameWidth="449" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA RIGHT0003" x="4845" y="2022" width="355" height="628" frameX="-69" frameY="-31" frameWidth="449" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA RIGHT0004" x="5205" y="2022" width="355" height="628" frameX="-69" frameY="-31" frameWidth="449" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA RIGHT0005" x="5565" y="2022" width="331" height="622" frameX="-76" frameY="-37" frameWidth="449" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA RIGHT0006" x="5565" y="2022" width="331" height="622" frameX="-76" frameY="-37" frameWidth="449" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA RIGHT0007" x="5901" y="2022" width="410" height="652" frameX="0" frameY="0" frameWidth="449" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA RIGHT0008" x="5901" y="2022" width="410" height="652" frameX="0" frameY="0" frameWidth="449" frameHeight="659"/>
+	<SubTexture name="DEMON CHARA UP0000" x="6316" y="2022" width="384" height="668" frameX="0" frameY="-6" frameWidth="476" frameHeight="674"/>
+	<SubTexture name="DEMON CHARA UP0001" x="6705" y="2022" width="367" height="664" frameX="-14" frameY="-10" frameWidth="476" frameHeight="674"/>
+	<SubTexture name="DEMON CHARA UP0002" x="6705" y="2022" width="367" height="664" frameX="-14" frameY="-10" frameWidth="476" frameHeight="674"/>
+	<SubTexture name="DEMON CHARA UP0003" x="7077" y="2022" width="349" height="668" frameX="-45" frameY="-6" frameWidth="476" frameHeight="674"/>
+	<SubTexture name="DEMON CHARA UP0004" x="7431" y="2022" width="349" height="669" frameX="-45" frameY="-5" frameWidth="476" frameHeight="674"/>
+	<SubTexture name="DEMON CHARA UP0005" x="7785" y="2022" width="358" height="666" frameX="-75" frameY="-8" frameWidth="476" frameHeight="674"/>
+	<SubTexture name="DEMON CHARA UP0006" x="7785" y="2022" width="358" height="666" frameX="-75" frameY="-8" frameWidth="476" frameHeight="674"/>
+	<SubTexture name="DEMON CHARA UP0007" x="5" y="2705" width="385" height="670" frameX="-91" frameY="0" frameWidth="476" frameHeight="674"/>
+	<SubTexture name="DEMON CHARA UP0008" x="5" y="2705" width="385" height="670" frameX="-91" frameY="0" frameWidth="476" frameHeight="674"/>
+</TextureAtlas>

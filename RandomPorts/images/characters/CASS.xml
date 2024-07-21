@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CASS.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CASS DOWN0000" x="0" y="0" width="524" height="874" frameX="-26" frameY="-7" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS DOWN0001" x="0" y="0" width="524" height="874" frameX="-26" frameY="-7" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS DOWN0002" x="574" y="0" width="550" height="873" frameX="0" frameY="0" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS DOWN0003" x="574" y="0" width="550" height="873" frameX="0" frameY="0" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS DOWN0004" x="1174" y="0" width="550" height="875" frameX="0" frameY="0" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS DOWN0005" x="1174" y="0" width="550" height="875" frameX="0" frameY="0" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS DOWN0006" x="1774" y="0" width="550" height="874" frameX="0" frameY="0" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS DOWN0007" x="1774" y="0" width="550" height="874" frameX="0" frameY="0" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS DOWN0008" x="2374" y="0" width="550" height="874" frameX="0" frameY="0" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS DOWN0009" x="2374" y="0" width="550" height="874" frameX="0" frameY="0" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS DOWN0010" x="2974" y="0" width="550" height="873" frameX="0" frameY="0" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS DOWN0011" x="2974" y="0" width="550" height="873" frameX="0" frameY="0" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS DOWN0012" x="3574" y="0" width="550" height="871" frameX="0" frameY="0" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS DOWN0013" x="3574" y="0" width="550" height="871" frameX="0" frameY="0" frameWidth="550" frameHeight="881"/>
+	<SubTexture name="CASS IDLE0000" x="4174" y="0" width="584" height="901" frameX="-25" frameY="-26" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS IDLE0001" x="4174" y="0" width="584" height="901" frameX="-25" frameY="-26" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS IDLE0002" x="4808" y="0" width="616" height="902" frameX="0" frameY="-25" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS IDLE0003" x="4808" y="0" width="616" height="902" frameX="0" frameY="-25" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS IDLE0004" x="5474" y="0" width="574" height="927" frameX="-24" frameY="0" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS IDLE0005" x="5474" y="0" width="574" height="927" frameX="-24" frameY="0" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS IDLE0006" x="6098" y="0" width="556" height="924" frameX="-37" frameY="-2" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS IDLE0007" x="6098" y="0" width="556" height="924" frameX="-37" frameY="-2" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS IDLE0008" x="6704" y="0" width="561" height="922" frameX="-32" frameY="-4" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS IDLE0009" x="6704" y="0" width="561" height="922" frameX="-32" frameY="-4" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS IDLE0010" x="7315" y="0" width="571" height="922" frameX="-22" frameY="-4" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS IDLE0011" x="7315" y="0" width="571" height="922" frameX="-22" frameY="-4" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS IDLE0012" x="0" y="977" width="580" height="922" frameX="-13" frameY="-4" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS IDLE0013" x="0" y="977" width="580" height="922" frameX="-13" frameY="-4" frameWidth="616" frameHeight="927"/>
+	<SubTexture name="CASS LEFT0000" x="630" y="977" width="623" height="1174" frameX="0" frameY="0" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS LEFT0001" x="630" y="977" width="623" height="1174" frameX="0" frameY="0" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS LEFT0002" x="1303" y="977" width="603" height="1167" frameX="-21" frameY="-7" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS LEFT0003" x="1303" y="977" width="603" height="1167" frameX="-21" frameY="-7" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS LEFT0004" x="1956" y="977" width="603" height="1167" frameX="-21" frameY="-7" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS LEFT0005" x="1956" y="977" width="603" height="1167" frameX="-21" frameY="-7" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS LEFT0006" x="2609" y="977" width="603" height="1167" frameX="-21" frameY="-7" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS LEFT0007" x="2609" y="977" width="603" height="1167" frameX="-21" frameY="-7" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS LEFT0008" x="3262" y="977" width="603" height="1167" frameX="-21" frameY="-7" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS LEFT0009" x="3262" y="977" width="603" height="1167" frameX="-21" frameY="-7" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS LEFT0010" x="3915" y="977" width="603" height="1167" frameX="-21" frameY="-7" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS LEFT0011" x="3915" y="977" width="603" height="1167" frameX="-21" frameY="-7" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS LEFT0012" x="4568" y="977" width="603" height="1167" frameX="-21" frameY="-7" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS LEFT0013" x="4568" y="977" width="603" height="1167" frameX="-21" frameY="-7" frameWidth="624" frameHeight="1174"/>
+	<SubTexture name="CASS RIGHT0000" x="5221" y="977" width="844" height="905" frameX="-1" frameY="-5" frameWidth="889" frameHeight="910"/>
+	<SubTexture name="CASS RIGHT0001" x="5221" y="977" width="844" height="905" frameX="-1" frameY="-5" frameWidth="889" frameHeight="910"/>
+	<SubTexture name="CASS RIGHT0002" x="6115" y="977" width="846" height="910" frameX="0" frameY="0" frameWidth="889" frameHeight="910"/>
+	<SubTexture name="CASS RIGHT0003" x="6115" y="977" width="846" height="910" frameX="0" frameY="0" frameWidth="889" frameHeight="910"/>
+	<SubTexture name="CASS RIGHT0004" x="7011" y="977" width="854" height="910" frameX="0" frameY="0" frameWidth="889" frameHeight="910"/>
+	<SubTexture name="CASS RIGHT0005" x="7011" y="977" width="854" height="910" frameX="0" frameY="0" frameWidth="889" frameHeight="910"/>
+	<SubTexture name="CASS RIGHT0006" x="0" y="2201" width="889" height="910"/>
+	<SubTexture name="CASS RIGHT0007" x="0" y="2201" width="889" height="910"/>
+	<SubTexture name="CASS RIGHT0008" x="939" y="2201" width="848" height="910" frameX="0" frameY="0" frameWidth="889" frameHeight="910"/>
+	<SubTexture name="CASS RIGHT0009" x="939" y="2201" width="848" height="910" frameX="0" frameY="0" frameWidth="889" frameHeight="910"/>
+	<SubTexture name="CASS RIGHT0010" x="1837" y="2201" width="847" height="910" frameX="0" frameY="0" frameWidth="889" frameHeight="910"/>
+	<SubTexture name="CASS RIGHT0011" x="1837" y="2201" width="847" height="910" frameX="0" frameY="0" frameWidth="889" frameHeight="910"/>
+	<SubTexture name="CASS RIGHT0012" x="2734" y="2201" width="845" height="910" frameX="0" frameY="0" frameWidth="889" frameHeight="910"/>
+	<SubTexture name="CASS RIGHT0013" x="2734" y="2201" width="845" height="910" frameX="0" frameY="0" frameWidth="889" frameHeight="910"/>
+	<SubTexture name="CASS UP0000" x="3629" y="2201" width="637" height="1227" frameX="0" frameY="0" frameWidth="654" frameHeight="1227"/>
+	<SubTexture name="CASS UP0001" x="3629" y="2201" width="637" height="1227" frameX="0" frameY="0" frameWidth="654" frameHeight="1227"/>
+	<SubTexture name="CASS UP0002" x="4316" y="2201" width="629" height="1205" frameX="-25" frameY="-22" frameWidth="654" frameHeight="1227"/>
+	<SubTexture name="CASS UP0003" x="4316" y="2201" width="629" height="1205" frameX="-25" frameY="-22" frameWidth="654" frameHeight="1227"/>
+	<SubTexture name="CASS UP0004" x="4995" y="2201" width="627" height="1209" frameX="-27" frameY="-18" frameWidth="654" frameHeight="1227"/>
+	<SubTexture name="CASS UP0005" x="4995" y="2201" width="627" height="1209" frameX="-27" frameY="-18" frameWidth="654" frameHeight="1227"/>
+	<SubTexture name="CASS UP0006" x="5672" y="2201" width="627" height="1205" frameX="-27" frameY="-22" frameWidth="654" frameHeight="1227"/>
+	<SubTexture name="CASS UP0007" x="5672" y="2201" width="627" height="1205" frameX="-27" frameY="-22" frameWidth="654" frameHeight="1227"/>
+	<SubTexture name="CASS UP0008" x="6349" y="2201" width="627" height="1205" frameX="-27" frameY="-22" frameWidth="654" frameHeight="1227"/>
+	<SubTexture name="CASS UP0009" x="6349" y="2201" width="627" height="1205" frameX="-27" frameY="-22" frameWidth="654" frameHeight="1227"/>
+	<SubTexture name="CASS UP0010" x="7026" y="2201" width="627" height="1205" frameX="-27" frameY="-22" frameWidth="654" frameHeight="1227"/>
+	<SubTexture name="CASS UP0011" x="7026" y="2201" width="627" height="1205" frameX="-27" frameY="-22" frameWidth="654" frameHeight="1227"/>
+	<SubTexture name="CASS UP0012" x="0" y="3478" width="627" height="1204" frameX="-27" frameY="-23" frameWidth="654" frameHeight="1227"/>
+	<SubTexture name="CASS UP0013" x="0" y="3478" width="627" height="1204" frameX="-27" frameY="-23" frameWidth="654" frameHeight="1227"/>
+</TextureAtlas>

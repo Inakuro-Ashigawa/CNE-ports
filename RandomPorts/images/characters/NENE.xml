@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NENE.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NENE DOWN0000" x="0" y="0" width="579" height="649" frameX="-4" frameY="-3" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN0001" x="0" y="0" width="579" height="649" frameX="-4" frameY="-3" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN0002" x="629" y="0" width="581" height="651" frameX="0" frameY="0" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN0003" x="629" y="0" width="581" height="651" frameX="0" frameY="0" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN0004" x="629" y="0" width="581" height="651" frameX="0" frameY="0" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN0005" x="629" y="0" width="581" height="651" frameX="0" frameY="0" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN0006" x="629" y="0" width="581" height="651" frameX="0" frameY="0" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN0007" x="629" y="0" width="581" height="651" frameX="0" frameY="0" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN0008" x="629" y="0" width="581" height="651" frameX="0" frameY="0" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN0009" x="629" y="0" width="581" height="651" frameX="0" frameY="0" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN0010" x="629" y="0" width="581" height="651" frameX="0" frameY="0" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN0011" x="629" y="0" width="581" height="651" frameX="0" frameY="0" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN0012" x="629" y="0" width="581" height="651" frameX="0" frameY="0" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN0013" x="629" y="0" width="581" height="651" frameX="0" frameY="0" frameWidth="583" frameHeight="652"/>
+	<SubTexture name="NENE DOWN MISS0000" x="1260" y="0" width="579" height="649" frameX="0" frameY="-12" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE DOWN MISS0001" x="1889" y="0" width="537" height="657" frameX="-31" frameY="0" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE DOWN MISS0002" x="1889" y="0" width="537" height="657" frameX="-31" frameY="0" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE DOWN MISS0003" x="2476" y="0" width="553" height="648" frameX="-26" frameY="-7" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE DOWN MISS0004" x="2476" y="0" width="553" height="648" frameX="-26" frameY="-7" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE DOWN MISS0005" x="3079" y="0" width="555" height="648" frameX="-25" frameY="-7" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE DOWN MISS0006" x="3079" y="0" width="555" height="648" frameX="-25" frameY="-7" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE DOWN MISS0007" x="3079" y="0" width="555" height="648" frameX="-25" frameY="-7" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE DOWN MISS0008" x="3079" y="0" width="555" height="648" frameX="-25" frameY="-7" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE DOWN MISS0009" x="3079" y="0" width="555" height="648" frameX="-25" frameY="-7" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE DOWN MISS0010" x="3079" y="0" width="555" height="648" frameX="-25" frameY="-7" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE DOWN MISS0011" x="3079" y="0" width="555" height="648" frameX="-25" frameY="-7" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE DOWN MISS0012" x="3079" y="0" width="555" height="648" frameX="-25" frameY="-7" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE DOWN MISS0013" x="3079" y="0" width="555" height="648" frameX="-25" frameY="-7" frameWidth="580" frameHeight="661"/>
+	<SubTexture name="NENE IDLE0000" x="3684" y="0" width="486" height="773" frameX="0" frameY="-27" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE IDLE0001" x="3684" y="0" width="486" height="773" frameX="0" frameY="-27" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE IDLE0002" x="4220" y="0" width="502" height="774" frameX="-2" frameY="-26" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE IDLE0003" x="4772" y="0" width="502" height="774" frameX="-2" frameY="-26" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE IDLE0004" x="5324" y="0" width="534" height="793" frameX="-3" frameY="-7" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE IDLE0005" x="5908" y="0" width="534" height="793" frameX="-3" frameY="-7" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE IDLE0006" x="6492" y="0" width="542" height="799" frameX="-3" frameY="-1" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE IDLE0007" x="6492" y="0" width="542" height="799" frameX="-3" frameY="-1" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE IDLE0008" x="7084" y="0" width="543" height="800" frameX="-3" frameY="0" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE IDLE0009" x="7084" y="0" width="543" height="800" frameX="-3" frameY="0" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE IDLE0010" x="0" y="850" width="542" height="800" frameX="-3" frameY="0" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE IDLE0011" x="0" y="850" width="542" height="800" frameX="-3" frameY="0" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE IDLE0012" x="592" y="850" width="542" height="800" frameX="-3" frameY="0" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE IDLE0013" x="592" y="850" width="542" height="800" frameX="-3" frameY="0" frameWidth="546" frameHeight="800"/>
+	<SubTexture name="NENE LEFT0000" x="1184" y="850" width="573" height="797"/>
+	<SubTexture name="NENE LEFT0001" x="1184" y="850" width="573" height="797"/>
+	<SubTexture name="NENE LEFT0002" x="1807" y="850" width="571" height="793" frameX="-2" frameY="-4" frameWidth="573" frameHeight="797"/>
+	<SubTexture name="NENE LEFT0003" x="1807" y="850" width="571" height="793" frameX="-2" frameY="-4" frameWidth="573" frameHeight="797"/>
+	<SubTexture name="NENE LEFT0004" x="1807" y="850" width="571" height="793" frameX="-2" frameY="-4" frameWidth="573" frameHeight="797"/>
+	<SubTexture name="NENE LEFT0005" x="1807" y="850" width="571" height="793" frameX="-2" frameY="-4" frameWidth="573" frameHeight="797"/>
+	<SubTexture name="NENE LEFT0006" x="1807" y="850" width="571" height="793" frameX="-2" frameY="-4" frameWidth="573" frameHeight="797"/>
+	<SubTexture name="NENE LEFT0007" x="1807" y="850" width="571" height="793" frameX="-2" frameY="-4" frameWidth="573" frameHeight="797"/>
+	<SubTexture name="NENE LEFT0008" x="1807" y="850" width="571" height="793" frameX="-2" frameY="-4" frameWidth="573" frameHeight="797"/>
+	<SubTexture name="NENE LEFT0009" x="1807" y="850" width="571" height="793" frameX="-2" frameY="-4" frameWidth="573" frameHeight="797"/>
+	<SubTexture name="NENE LEFT0010" x="1807" y="850" width="571" height="793" frameX="-2" frameY="-4" frameWidth="573" frameHeight="797"/>
+	<SubTexture name="NENE LEFT0011" x="1807" y="850" width="571" height="793" frameX="-2" frameY="-4" frameWidth="573" frameHeight="797"/>
+	<SubTexture name="NENE LEFT0012" x="1807" y="850" width="571" height="793" frameX="-2" frameY="-4" frameWidth="573" frameHeight="797"/>
+	<SubTexture name="NENE LEFT0013" x="1807" y="850" width="571" height="793" frameX="-2" frameY="-4" frameWidth="573" frameHeight="797"/>
+	<SubTexture name="NENE LEFT MISS0000" x="2428" y="850" width="573" height="797" frameX="-11" frameY="0" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE LEFT MISS0001" x="3051" y="850" width="567" height="794" frameX="-9" frameY="-1" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE LEFT MISS0002" x="3051" y="850" width="567" height="794" frameX="-9" frameY="-1" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE LEFT MISS0003" x="3668" y="850" width="579" height="796" frameX="-1" frameY="-1" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE LEFT MISS0004" x="3668" y="850" width="579" height="796" frameX="-1" frameY="-1" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE LEFT MISS0005" x="4297" y="850" width="580" height="797" frameX="0" frameY="-1" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE LEFT MISS0006" x="4297" y="850" width="580" height="797" frameX="0" frameY="-1" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE LEFT MISS0007" x="4297" y="850" width="580" height="797" frameX="0" frameY="-1" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE LEFT MISS0008" x="4297" y="850" width="580" height="797" frameX="0" frameY="-1" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE LEFT MISS0009" x="4297" y="850" width="580" height="797" frameX="0" frameY="-1" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE LEFT MISS0010" x="4297" y="850" width="580" height="797" frameX="0" frameY="-1" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE LEFT MISS0011" x="4297" y="850" width="580" height="797" frameX="0" frameY="-1" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE LEFT MISS0012" x="4297" y="850" width="580" height="797" frameX="0" frameY="-1" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE LEFT MISS0013" x="4297" y="850" width="580" height="797" frameX="0" frameY="-1" frameWidth="584" frameHeight="798"/>
+	<SubTexture name="NENE RIGHT0000" x="4927" y="850" width="639" height="784" frameX="0" frameY="-5" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0001" x="5616" y="850" width="630" height="784" frameX="-9" frameY="-5" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0002" x="6296" y="850" width="596" height="789" frameX="-39" frameY="0" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0003" x="6942" y="850" width="596" height="789" frameX="-39" frameY="0" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0004" x="7588" y="850" width="596" height="789" frameX="-39" frameY="0" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0005" x="0" y="1700" width="596" height="789" frameX="-39" frameY="0" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0006" x="646" y="1700" width="596" height="789" frameX="-39" frameY="0" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0007" x="1292" y="1700" width="596" height="789" frameX="-39" frameY="0" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0008" x="6296" y="850" width="596" height="789" frameX="-39" frameY="0" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0009" x="6942" y="850" width="596" height="789" frameX="-39" frameY="0" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0010" x="7588" y="850" width="596" height="789" frameX="-39" frameY="0" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0011" x="0" y="1700" width="596" height="789" frameX="-39" frameY="0" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0012" x="646" y="1700" width="596" height="789" frameX="-39" frameY="0" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0013" x="1292" y="1700" width="596" height="789" frameX="-39" frameY="0" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT0014" x="6296" y="850" width="596" height="789" frameX="-39" frameY="0" frameWidth="639" frameHeight="789"/>
+	<SubTexture name="NENE RIGHT MISS0000" x="1938" y="1700" width="639" height="784" frameX="-79" frameY="-192" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0001" x="2627" y="1700" width="709" height="826" frameX="0" frameY="-151" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0002" x="2627" y="1700" width="709" height="826" frameX="0" frameY="-151" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0003" x="3386" y="1700" width="602" height="952" frameX="-115" frameY="-21" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0004" x="3386" y="1700" width="602" height="952" frameX="-115" frameY="-21" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0005" x="4038" y="1700" width="603" height="974" frameX="-114" frameY="0" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0006" x="4038" y="1700" width="603" height="974" frameX="-114" frameY="0" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0007" x="4691" y="1700" width="603" height="972" frameX="-114" frameY="-2" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0008" x="4691" y="1700" width="603" height="972" frameX="-114" frameY="-2" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0009" x="5344" y="1700" width="603" height="945" frameX="-114" frameY="-29" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0010" x="5344" y="1700" width="603" height="945" frameX="-114" frameY="-29" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0011" x="5997" y="1700" width="603" height="866" frameX="-114" frameY="-108" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0012" x="5997" y="1700" width="603" height="866" frameX="-114" frameY="-108" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0013" x="6650" y="1700" width="603" height="788" frameX="-114" frameY="-186" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0014" x="6650" y="1700" width="603" height="788" frameX="-114" frameY="-186" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0015" x="7303" y="1700" width="601" height="787" frameX="-116" frameY="-186" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0016" x="7303" y="1700" width="601" height="787" frameX="-116" frameY="-186" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0017" x="0" y="2724" width="602" height="787" frameX="-115" frameY="-187" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0018" x="0" y="2724" width="602" height="787" frameX="-115" frameY="-187" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0019" x="652" y="2724" width="603" height="788" frameX="-114" frameY="-186" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE RIGHT MISS0020" x="652" y="2724" width="603" height="788" frameX="-114" frameY="-186" frameWidth="718" frameHeight="977"/>
+	<SubTexture name="NENE UP0000" x="1305" y="2724" width="874" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP0001" x="1305" y="2724" width="874" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP0002" x="2229" y="2724" width="664" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP0003" x="2229" y="2724" width="664" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP0004" x="2229" y="2724" width="664" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP0005" x="2229" y="2724" width="664" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP0006" x="2229" y="2724" width="664" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP0007" x="2229" y="2724" width="664" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP0008" x="2229" y="2724" width="664" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP0009" x="2229" y="2724" width="664" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP0010" x="2229" y="2724" width="664" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP0011" x="2229" y="2724" width="664" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP0012" x="2229" y="2724" width="664" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP0013" x="2229" y="2724" width="664" height="987" frameX="0" frameY="0" frameWidth="900" frameHeight="987"/>
+	<SubTexture name="NENE UP MISS0000" x="2943" y="2724" width="535" height="892" frameX="-7" frameY="0" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="NENE UP MISS0001" x="3528" y="2724" width="561" height="876" frameX="0" frameY="-21" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="NENE UP MISS0002" x="3528" y="2724" width="561" height="876" frameX="0" frameY="-21" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="NENE UP MISS0003" x="4139" y="2724" width="538" height="891" frameX="-6" frameY="-6" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="NENE UP MISS0004" x="4139" y="2724" width="538" height="891" frameX="-6" frameY="-6" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="NENE UP MISS0005" x="4727" y="2724" width="538" height="891" frameX="-6" frameY="-6" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="NENE UP MISS0006" x="4727" y="2724" width="538" height="891" frameX="-6" frameY="-6" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="NENE UP MISS0007" x="4727" y="2724" width="538" height="891" frameX="-6" frameY="-6" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="NENE UP MISS0008" x="4727" y="2724" width="538" height="891" frameX="-6" frameY="-6" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="NENE UP MISS0009" x="4727" y="2724" width="538" height="891" frameX="-6" frameY="-6" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="NENE UP MISS0010" x="4727" y="2724" width="538" height="891" frameX="-6" frameY="-6" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="NENE UP MISS0011" x="4727" y="2724" width="538" height="891" frameX="-6" frameY="-6" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="NENE UP MISS0012" x="4727" y="2724" width="538" height="891" frameX="-6" frameY="-6" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="NENE UP MISS0013" x="4727" y="2724" width="538" height="891" frameX="-6" frameY="-6" frameWidth="561" frameHeight="897"/>
+	<SubTexture name="game over0000" x="5315" y="2724" width="542" height="801" frameX="-203" frameY="-262" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0001" x="5315" y="2724" width="542" height="801" frameX="-203" frameY="-262" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0002" x="5907" y="2724" width="520" height="785" frameX="-203" frameY="-278" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0003" x="5907" y="2724" width="520" height="785" frameX="-203" frameY="-278" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0004" x="6477" y="2724" width="548" height="797" frameX="-203" frameY="-266" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0005" x="6477" y="2724" width="548" height="797" frameX="-203" frameY="-266" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0006" x="7075" y="2724" width="586" height="795" frameX="-174" frameY="-268" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0007" x="7075" y="2724" width="586" height="795" frameX="-174" frameY="-268" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0008" x="0" y="3761" width="783" height="936" frameX="-52" frameY="-161" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0009" x="0" y="3761" width="783" height="936" frameX="-52" frameY="-161" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0010" x="833" y="3761" width="825" height="1006" frameX="-20" frameY="-91" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0011" x="833" y="3761" width="825" height="1006" frameX="-20" frameY="-91" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0012" x="1708" y="3761" width="845" height="1030" frameX="0" frameY="-67" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0013" x="2603" y="3761" width="864" height="1022" frameX="-13" frameY="-13" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0014" x="2603" y="3761" width="864" height="1022" frameX="-13" frameY="-13" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0015" x="3517" y="3761" width="854" height="1035" frameX="-23" frameY="0" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0016" x="4421" y="3761" width="1093" height="1000" frameX="-294" frameY="-351" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0017" x="5564" y="3761" width="1093" height="1079" frameX="-294" frameY="-272" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0018" x="6707" y="3761" width="970" height="1104" frameX="-356" frameY="-241" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0019" x="0" y="4915" width="970" height="481" frameX="-356" frameY="-864" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0020" x="1020" y="4915" width="981" height="479" frameX="-350" frameY="-866" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0021" x="1020" y="4915" width="981" height="479" frameX="-350" frameY="-866" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0022" x="0" y="4915" width="970" height="481" frameX="-356" frameY="-864" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0023" x="0" y="4915" width="970" height="481" frameX="-356" frameY="-864" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0024" x="0" y="4915" width="970" height="481" frameX="-356" frameY="-864" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over0025" x="0" y="4915" width="970" height="481" frameX="-356" frameY="-864" frameWidth="1387" frameHeight="1351"/>
+	<SubTexture name="game over restart0000" x="2051" y="4915" width="1086" height="785" frameX="-101" frameY="0" frameWidth="1288" frameHeight="804"/>
+	<SubTexture name="game over restart0001" x="2051" y="4915" width="1086" height="785" frameX="-101" frameY="0" frameWidth="1288" frameHeight="804"/>
+	<SubTexture name="game over restart0002" x="3187" y="4915" width="1086" height="785" frameX="-101" frameY="0" frameWidth="1288" frameHeight="804"/>
+	<SubTexture name="game over restart0003" x="3187" y="4915" width="1086" height="785" frameX="-101" frameY="0" frameWidth="1288" frameHeight="804"/>
+	<SubTexture name="game over restart0004" x="3187" y="4915" width="1086" height="785" frameX="-101" frameY="0" frameWidth="1288" frameHeight="804"/>
+	<SubTexture name="game over restart0005" x="3187" y="4915" width="1086" height="785" frameX="-101" frameY="0" frameWidth="1288" frameHeight="804"/>
+	<SubTexture name="game over restart0006" x="3187" y="4915" width="1086" height="785" frameX="-101" frameY="0" frameWidth="1288" frameHeight="804"/>
+	<SubTexture name="game over restart0007" x="4323" y="4915" width="1086" height="785" frameX="-101" frameY="0" frameWidth="1288" frameHeight="804"/>
+	<SubTexture name="game over restart0008" x="5459" y="4915" width="1086" height="785" frameX="-101" frameY="0" frameWidth="1288" frameHeight="804"/>
+	<SubTexture name="game over restart0009" x="6595" y="4915" width="1288" height="804"/>
+	<SubTexture name="game over static0000" x="0" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0001" x="0" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0002" x="0" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0003" x="1136" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0004" x="1136" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0005" x="1136" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0006" x="2272" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0007" x="2272" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0008" x="2272" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0009" x="3408" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0010" x="3408" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0011" x="3408" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0012" x="4544" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0013" x="4544" y="5769" width="1086" height="785"/>
+	<SubTexture name="game over static0014" x="4544" y="5769" width="1086" height="785"/>
+</TextureAtlas>

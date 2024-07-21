@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 196,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -970769,
+	"displayName": "Corrosion",
+	"icon": "isabella2",
+	"name": "corrosion",
+	"color": "#F12FEF"
+}

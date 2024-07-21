@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 194,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -62709,
+	"displayName": "Twiddle Finger",
+	"icon": "max",
+	"name": "twiddlefinger",
+	"color": "#FF0B0B"
+}

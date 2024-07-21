@@ -1,0 +1,19 @@
+Bump Camera.hx________PACKSEP________function onEvent(_)
+    if (_.event.name == 'Bump Camera')
+        switch(_.event.params[1]) {
+            case 'camGame': camGame.zoom += Std.parseFloat(_.event.params[0]);
+            case 'camHUD': camHUD.zoom += Std.parseFloat(_.event.params[0]);
+        }________PACKSEP________{
+	"params": [
+		{
+			"name": "Amount",
+			"type": "Float(0, 10, 1, 10)",
+			"defaultValue": 0.1
+		},
+		{
+			"name": "Camera",
+			"type": "DropDown('camGame', 'camHUD')",
+			"defaultValue": "camGame"
+		}
+	]
+}________PACKSEP________iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAAd0SU1FB+cFFBIDO1WKA9sAAABsSURBVCjPrZDNGYAwCENf/LqL3X8anQYPpX+0epJTSQIJlVFL/QmYAiqbeOSS1HX3JDBkJt8guxzOAJTuRJgOQlXvWqmANUqkW4aVCIIhvefJPnZEOqZJX9OwbFhveRHsTVs73rTNUD75L4sHOpMo02PY4u0AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDUtMjBUMTg6MDM6MjArMDA6MDCxTFiqAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTA1LTIwVDE4OjAzOjIwKzAwOjAwwBHgFgAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMy0wNS0yMFQxODowMzo1OSswMDowMAhZjQMAAAAASUVORK5CYII=

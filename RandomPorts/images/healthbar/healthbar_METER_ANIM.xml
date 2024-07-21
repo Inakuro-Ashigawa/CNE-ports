@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="healthbar_METER_ANIM.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HEALTH METER ANIM0000" x="0" y="0" width="115" height="66" frameX="0" frameY="-9" frameWidth="123" frameHeight="142"/>
+	<SubTexture name="HEALTH METER ANIM0001" x="0" y="0" width="115" height="66" frameX="0" frameY="-9" frameWidth="123" frameHeight="142"/>
+	<SubTexture name="HEALTH METER ANIM0002" x="165" y="0" width="115" height="83" frameX="0" frameY="-4" frameWidth="123" frameHeight="142"/>
+	<SubTexture name="HEALTH METER ANIM0003" x="165" y="0" width="115" height="83" frameX="0" frameY="-4" frameWidth="123" frameHeight="142"/>
+	<SubTexture name="HEALTH METER ANIM0004" x="330" y="0" width="115" height="101" frameX="0" frameY="-3" frameWidth="123" frameHeight="142"/>
+	<SubTexture name="HEALTH METER ANIM0005" x="330" y="0" width="115" height="101" frameX="0" frameY="-3" frameWidth="123" frameHeight="142"/>
+	<SubTexture name="HEALTH METER ANIM0006" x="0" y="151" width="115" height="139" frameX="0" frameY="-3" frameWidth="123" frameHeight="142"/>
+	<SubTexture name="HEALTH METER ANIM0007" x="0" y="151" width="115" height="139" frameX="0" frameY="-3" frameWidth="123" frameHeight="142"/>
+	<SubTexture name="HEALTH METER ANIM0008" x="165" y="151" width="120" height="128" frameX="0" frameY="0" frameWidth="123" frameHeight="142"/>
+	<SubTexture name="HEALTH METER ANIM0009" x="165" y="151" width="120" height="128" frameX="0" frameY="0" frameWidth="123" frameHeight="142"/>
+	<SubTexture name="HEALTH METER ANIM0010" x="335" y="151" width="118" height="103" frameX="0" frameY="-4" frameWidth="123" frameHeight="142"/>
+	<SubTexture name="HEALTH METER ANIM0011" x="335" y="151" width="118" height="103" frameX="0" frameY="-4" frameWidth="123" frameHeight="142"/>
+	<SubTexture name="HEALTH METER ANIM0012" x="0" y="340" width="123" height="74" frameX="0" frameY="-9" frameWidth="123" frameHeight="142"/>
+	<SubTexture name="HEALTH METER ANIM0013" x="0" y="340" width="123" height="74" frameX="0" frameY="-9" frameWidth="123" frameHeight="142"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="bg/" zoom="0.7">
+	<gf x="1637" y="931"/>
+	<sprite scale="0.55" sprite="bg" name="bg"/>
+	<sprite scale="0.55" sprite="fore" name="fore"/>
+	<sprite x="1874" y="1342" sprite="bf bop" name="b">
+		<anim x="0" loop="false" y="0" fps="24" anim="BF BOP" type="none" name="idle"/>
+	</sprite>
+	<sprite x="1753.5" y="1318.5" sprite="gf bop" name="gfb">
+		<anim x="0" loop="false" y="0" fps="24" anim="gf bop" type="none" name="idle"/>
+	</sprite>
+	<sprite x="1974.5" y="1346.5" sprite="pico bop" name="pico">
+		<anim x="0" loop="false" y="0" fps="24" anim="pico bop" type="none" name="idle"/>
+	</sprite>
+	<dad x="1445" y="837.5"/>
+	<bf x="2031.5" y="813"/>
+	<combo x="1916.5" y="706"/>
+</stage>

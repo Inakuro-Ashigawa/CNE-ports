@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/backyard/" zoom="0.9">
+	<gf x="1011.5" y="763.5"/>
+	<sprite antialiasing="false" x="657.5" y="327.5" sprite="flame_pink" type="loop" alpha="0" scale="2" name="flame_pink"/>
+	<sprite x="629.5" antialiasing="false" sprite="flame" y="349.5" scale="2" alpha="0" type="loop" name="flame"/>
+	<sprite alpha="0" sprite="bg_skyphase3_p" name="bg_skyphase3_p"/>
+	<sprite alpha="0" sprite="bg_skyphase3" name="bg_skyphase3"/>	
+	<sprite alpha="0" name="bg_skyphase2" sprite="bg_skyphase2"/>
+	<sprite alpha="0" sprite="bg_realphase3_p" name="bg_realphase3_p"/>
+	<sprite alpha="0" sprite="bg_realphase3" name="bg_realphase3"/>
+	<sprite alpha="0" name="bg_realphase2" sprite="bg_realphase2"/>
+	<sprite sprite="bg_fake" name="bg_fake"/>
+	<dad x="748.5" y="469.5"/>
+	<bf x="1380.5" y="481.5"/>
+	<combo x="1362.5" y="754"/>
+</stage>

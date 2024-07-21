@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gumballg.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="gumball sprites oh god no gumball idle sprites0000" x="1713" y="734" width="563" height="766" frameX="-670" frameY="-384" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball idle sprites0001" x="2306" y="0" width="564" height="764" frameX="-671" frameY="-386" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball idle sprites0002" x="3432" y="0" width="564" height="756" frameX="-676" frameY="-394" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball idle sprites0003" x="3432" y="1517" width="560" height="750" frameX="-686" frameY="-400" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball idle sprites0004" x="3432" y="2267" width="557" height="751" frameX="-691" frameY="-399" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball idle sprites0005" x="3432" y="756" width="558" height="761" frameX="-682" frameY="-389" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball idle sprites0006" x="2870" y="0" width="562" height="763" frameX="-675" frameY="-387" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball idle sprites0007" x="2306" y="764" width="562" height="766" frameX="-673" frameY="-384" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball up sprites0000" x="0" y="0" width="571" height="826" frameX="-634" frameY="-323" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball up sprites0001" x="571" y="0" width="573" height="812" frameX="-630" frameY="-337" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball up sprites0002" x="1144" y="0" width="569" height="797" frameX="-646" frameY="-352" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball up sprites0003" x="0" y="826" width="565" height="790" frameX="-651" frameY="-359" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball down sprites0000" x="598" y="1616" width="613" height="701" frameX="-670" frameY="-450" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball down sprites0001" x="1737" y="2335" width="594" height="706" frameX="-675" frameY="-445" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball down sprites0002" x="0" y="1616" width="598" height="719" frameX="-668" frameY="-432" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball down sprites0003" x="565" y="826" width="605" height="728" frameX="-660" frameY="-423" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball right sprites0000" x="1713" y="0" width="593" height="734" frameX="-834" frameY="-416" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball right sprites0001" x="1156" y="2335" width="581" height="728" frameX="-825" frameY="-422" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball right sprites0002" x="577" y="2335" width="579" height="734" frameX="-811" frameY="-416" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball right sprites0003" x="0" y="2335" width="577" height="743" frameX="-806" frameY="-407" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball left sprites0000" x="1728" y="3078" width="575" height="709" frameX="-458" frameY="-443" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball left sprites0001" x="1151" y="3078" width="577" height="712" frameX="-489" frameY="-439" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball left sprites0002" x="0" y="3078" width="576" height="722" frameX="-502" frameY="-429" frameWidth="1996" frameHeight="1401"/>
+	<SubTexture name="gumball sprites oh god no gumball left sprites0003" x="576" y="3078" width="575" height="721" frameX="-509" frameY="-430" frameWidth="1996" frameHeight="1401"/>
+</TextureAtlas>

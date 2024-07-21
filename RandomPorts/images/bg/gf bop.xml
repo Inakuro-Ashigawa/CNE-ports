@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf bop.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf bop0000" x="0" y="0" width="159" height="179"/>
+	<SubTexture name="gf bop0001" x="0" y="0" width="159" height="179"/>
+	<SubTexture name="gf bop0002" x="209" y="0" width="159" height="179"/>
+	<SubTexture name="gf bop0003" x="209" y="0" width="159" height="179"/>
+	<SubTexture name="gf bop0004" x="418" y="0" width="159" height="179"/>
+	<SubTexture name="gf bop0005" x="418" y="0" width="159" height="179"/>
+	<SubTexture name="gf bop0006" x="627" y="0" width="159" height="179"/>
+	<SubTexture name="gf bop0007" x="627" y="0" width="159" height="179"/>
+	<SubTexture name="gf bop0008" x="836" y="0" width="159" height="179"/>
+	<SubTexture name="gf bop0009" x="836" y="0" width="159" height="179"/>
+	<SubTexture name="gf bop0010" x="0" y="229" width="159" height="179"/>
+	<SubTexture name="gf bop0011" x="0" y="229" width="159" height="179"/>
+	<SubTexture name="gf bop0012" x="209" y="229" width="159" height="179"/>
+	<SubTexture name="gf bop0013" x="209" y="229" width="159" height="179"/>
+	<SubTexture name="gf bop0014" x="418" y="229" width="159" height="179"/>
+	<SubTexture name="gf bop0015" x="418" y="229" width="159" height="179"/>
+	<SubTexture name="gf bop0016" x="627" y="229" width="159" height="179"/>
+	<SubTexture name="gf bop0017" x="627" y="229" width="159" height="179"/>
+	<SubTexture name="gf bop0018" x="836" y="229" width="159" height="179"/>
+	<SubTexture name="gf bop0019" x="836" y="229" width="159" height="179"/>
+	<SubTexture name="gf bop0020" x="0" y="458" width="159" height="179"/>
+	<SubTexture name="gf bop0021" x="0" y="458" width="159" height="179"/>
+	<SubTexture name="gf bop0022" x="209" y="458" width="159" height="179"/>
+	<SubTexture name="gf bop0023" x="209" y="458" width="159" height="179"/>
+	<SubTexture name="gf bop0024" x="209" y="458" width="159" height="179"/>
+	<SubTexture name="gf bop0025" x="209" y="458" width="159" height="179"/>
+	<SubTexture name="gf bop0026" x="209" y="458" width="159" height="179"/>
+	<SubTexture name="gf bop0027" x="209" y="458" width="159" height="179"/>
+</TextureAtlas>

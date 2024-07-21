@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico bop.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pico bop0000" x="0" y="0" width="139" height="135" frameX="0" frameY="-8" frameWidth="139" frameHeight="143"/>
+	<SubTexture name="pico bop0001" x="0" y="0" width="139" height="135" frameX="0" frameY="-8" frameWidth="139" frameHeight="143"/>
+	<SubTexture name="pico bop0002" x="189" y="0" width="137" height="134" frameX="0" frameY="-9" frameWidth="139" frameHeight="143"/>
+	<SubTexture name="pico bop0003" x="189" y="0" width="137" height="134" frameX="0" frameY="-9" frameWidth="139" frameHeight="143"/>
+	<SubTexture name="pico bop0004" x="376" y="0" width="132" height="141" frameX="-4" frameY="-2" frameWidth="139" frameHeight="143"/>
+	<SubTexture name="pico bop0005" x="376" y="0" width="132" height="141" frameX="-4" frameY="-2" frameWidth="139" frameHeight="143"/>
+	<SubTexture name="pico bop0006" x="0" y="191" width="133" height="143" frameX="-3" frameY="0" frameWidth="139" frameHeight="143"/>
+	<SubTexture name="pico bop0007" x="0" y="191" width="133" height="143" frameX="-3" frameY="0" frameWidth="139" frameHeight="143"/>
+	<SubTexture name="pico bop0008" x="183" y="191" width="133" height="143" frameX="-3" frameY="0" frameWidth="139" frameHeight="143"/>
+	<SubTexture name="pico bop0009" x="183" y="191" width="133" height="143" frameX="-3" frameY="0" frameWidth="139" frameHeight="143"/>
+	<SubTexture name="pico bop0010" x="183" y="191" width="133" height="143" frameX="-3" frameY="0" frameWidth="139" frameHeight="143"/>
+	<SubTexture name="pico bop0011" x="183" y="191" width="133" height="143" frameX="-3" frameY="0" frameWidth="139" frameHeight="143"/>
+	<SubTexture name="pico bop0012" x="183" y="191" width="133" height="143" frameX="-3" frameY="0" frameWidth="139" frameHeight="143"/>
+	<SubTexture name="pico bop0013" x="183" y="191" width="133" height="143" frameX="-3" frameY="0" frameWidth="139" frameHeight="143"/>
+</TextureAtlas>

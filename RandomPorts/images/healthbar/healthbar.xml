@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="healthbar.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HEALTHBAR NENE0000" x="0" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0001" x="0" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0002" x="0" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0003" x="324" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0004" x="324" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0005" x="324" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0006" x="648" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0007" x="648" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0008" x="648" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0009" x="972" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0010" x="972" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0011" x="972" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0012" x="1296" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0013" x="1296" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0014" x="0" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0015" x="0" y="0" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0016" x="1620" y="0" width="352" height="753" frameX="-10" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0017" x="2022" y="0" width="352" height="756" frameX="-10" frameY="-15" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0018" x="2424" y="0" width="376" height="759" frameX="-3" frameY="-13" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0019" x="2850" y="0" width="376" height="761" frameX="-3" frameY="-12" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0020" x="3276" y="0" width="384" height="764" frameX="0" frameY="-11" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0021" x="3710" y="0" width="384" height="767" frameX="0" frameY="-9" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0022" x="0" y="817" width="384" height="770" frameX="0" frameY="-8" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0023" x="0" y="817" width="384" height="770" frameX="0" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0024" x="434" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0025" x="434" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0026" x="434" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0027" x="758" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0028" x="758" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0029" x="758" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0030" x="1082" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0031" x="1082" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0032" x="1082" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0033" x="1406" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0034" x="1406" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0035" x="1406" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0036" x="1730" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0037" x="1730" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0038" x="1730" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0039" x="2054" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0040" x="2054" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0041" x="2378" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0042" x="2378" y="817" width="274" height="753" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0043" x="2702" y="817" width="286" height="767" frameX="-55" frameY="0" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0044" x="3038" y="817" width="282" height="757" frameX="-57" frameY="-5" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0045" x="3370" y="817" width="279" height="748" frameX="-59" frameY="-9" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0046" x="3699" y="817" width="276" height="742" frameX="-60" frameY="-12" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0047" x="0" y="1637" width="275" height="738" frameX="-61" frameY="-14" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0048" x="325" y="1637" width="274" height="735" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0049" x="649" y="1637" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0050" x="649" y="1637" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0051" x="649" y="1637" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0052" x="973" y="1637" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+	<SubTexture name="HEALTHBAR NENE0053" x="973" y="1637" width="274" height="734" frameX="-61" frameY="-16" frameWidth="384" frameHeight="778"/>
+</TextureAtlas>
