@@ -1,0 +1,23 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/school-Gum/" zoom="0.8">
+	<sprite scale="1.4" name="Ilustracion_sin_titulo-1" sprite="Ilustracion_sin_titulo-1"/>
+	<gf x="1286" y="40.5"/>
+	<bf x="1264" y="112.5"/>
+	<combo x="1053.5" y="188"/>
+	<sprite x="464.5" sprite="sinkgoop" y="449.5" scale="1.4" alpha="0" name="sinkgoop">	
+		<anim x="0" loop="true" y="0" fps="24" anim="gooey" type="loop" name="idle"/>
+	</sprite>
+	<dad x="118" y="217.5"/>
+	<sprite x="935" sprite="secondtopgoop" y="116.5" scale="1.4" alpha="0" name="secondtopgoop">
+		<anim x="0" loop="true" y="0" fps="24" anim="gooey" type="loop" name="idle"/>
+	</sprite>
+	<sprite x="513" sprite="penny" y="111.5" scale="1.4" alpha="0" type="none" name="penny">
+		<anim x="0" loop="false" y="0" fps="6" anim="idle" type="none" name="idle"/>	
+	</sprite>
+	<sprite x="-492" sprite="Ilustracion_sin_titulo-2" y="-268" scale="0.9" name="Ilustracion_sin_titulo-2"/>
+	<sprite x="-274" sprite="topgoop" y="-181.5" scale="1.4" alpha="0" name="topgoop">
+		<anim x="0" loop="true" y="0" fps="24" anim="gooey" type="loop" name="idle"/>	
+	</sprite>
+	<sprite x="-427" y="-292" sprite="188_sin_titulo11_20230523094718" name="pop"/>
+	<sprite x="-395.4" sprite="Ilustracion_sin_titulo-3" y="-275.6" updateHitbox="true" scale="1.6" name="pop3"/>
+</stage>

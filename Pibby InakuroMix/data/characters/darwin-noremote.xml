@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" icon="darwin" camx="160" y="450" isGF="false" scale="1.5" camy="-70" color="#FF784B" flipX="true" isPlayer="true" sprite="darwin-noremote">
+	<anim x="90" loop="false" y="-10" fps="24" anim="Darwin left" name="singLEFT"/>
+	<anim x="-25" loop="false" y="-7" fps="24" anim="Darwin right" name="singRIGHT"/>
+	<anim x="-14" loop="false" y="-47" fps="24" anim="Darwin down" name="singDOWN"/>
+	<anim x="-18" loop="false" y="54" fps="24" anim="Darwin up" name="singUP"/>
+	<anim x="45" loop="false" y="-24" fps="24" anim="Down-miss0" name="singDOWNmiss"/>
+	<anim x="11" loop="false" y="73" fps="24" anim="Up-miss0" name="singUPmiss"/>
+	<anim x="-1" loop="false" y="-2" fps="24" anim="Right-miss0" name="singRIGHTmiss"/>
+	<anim x="105" loop="false" y="10" fps="24" anim="Left-Miss0" name="singLEFTmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Darwin Idle" indices="0,1,2,3,4,5,6,7,8,9,10,11" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Darwin Idle" indices="12,13,14,15,16,17,18,19,20,21,22" name="idle-blink"/>
+</character>

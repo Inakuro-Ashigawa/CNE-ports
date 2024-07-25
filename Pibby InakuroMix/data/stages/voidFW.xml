@@ -1,0 +1,30 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="fw/" zoom="0.7">
+	<gf x="414" y="73"/>
+	<sprite scrolly="0.3" x="-500" sprite="void" y="-296" scale="1.4" scrollx="0.3" name="void">
+		
+		
+		<anim loop="true" x="0" anim="idle" fps="55" y="0" type="loop" name="idle"/>
+		
+		
+		<property type="float" name="alpha" value="0"/>
+		
+	
+	</sprite>
+	<sprite scrolly="0.3" x="-500" sprite="void" y="-296" scale="1.4" scrollx="0.3" name="void1">
+		
+		
+		<anim loop="true" x="0" anim="idle" fps="55" y="0" type="loop" name="idle"/>
+		
+	
+	</sprite>
+	<sprite scrolly="0.5" x="-731.5" sprite="glitch" y="-176.25" scale="1.2" scrollx="0.5" name="glitch1"/>
+	<sprite x="-809.5" scrolly="0.6" sprite="glitch2" y="-621" scale="1.1" name="glitch2" scrollx="0.6"/>
+	<sprite x="-762.5" y="-579.5" sprite="3" name="house"/>
+	<sprite x="-3492.5" y="-389.5" sprite="3b" name="houseb"/>
+	<sprite x="-358" scrolly="0.3" sprite="6bg" y="-293.75" scale="1.4" name="6bg" scrollx="0.6"/>
+	<sprite x="-1608.5" y="-1323" sprite="5b" scale="0.7" name="bg"/>
+	<dad/>
+	<bf x="955" y="-64"/>
+	<combo x="778" y="242.5"/>
+</stage>

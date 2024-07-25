@@ -1,0 +1,23 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/RodentRap/" zoom="0.65">
+	<gf/>
+	<sprite scrolly="0.4" x="-1207" y="-785" sprite="sunset/whatsupthesky" scale="0.83" scrollx="0.2" name="whatsupthesky"/>
+	<sprite scrolly="0.5" x="-1394" y="-577" sprite="sunset/waterfall" type="loop" scale="0.83" scrollx="0.5" name="waterfall">
+		<anim x="0" loop="true" y="0" fps="12" anim="agua" type="loop" name="idle"/>
+	</sprite>
+	<sprite scrolly="0.5" x="-1135.5" y="-144.5" sprite="sunset/bgFiles" type="loop" scale="0.83" scrollx="0.5" name="rock1">
+		<anim x="0" loop="true" y="0" fps="24" anim="biggerbackrocks" type="loop" name="idle"/>
+	</sprite>
+	<sprite scrolly="0.5" x="-1005.75" y="32.75" sprite="sunset/bgFiles" scale="0.83" scrollx="0.5" name="rock2">
+		<anim x="0" loop="true" y="0" fps="24" anim="backrocks" type="loop" name="idle"/>
+	</sprite>
+	<sprite x="-1387.5" y="548.5" sprite="sunset/bgFiles" scale="0.83" name="front">
+		<anim x="0" loop="true" y="0" fps="24" anim="ground" type="loop" name="idle"/>
+	</sprite>
+	<bf x="734" y="265"/>
+	<dad x="-433" y="229"/>
+	<combo x="616" y="531.5"/>
+	<sprite scrolly="1.5" x="-892.75" y="282.75" sprite="sunset/bgFiles" scale="1.25" scrollx="1.5" name="first">
+		<anim x="0" loop="true" y="0" fps="24" anim="frontobjects" type="loop" name="idle"/>
+	</sprite>
+</stage>

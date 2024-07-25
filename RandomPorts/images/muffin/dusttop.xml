@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dusttop.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fuckassdustfront0000" x="1962" y="1339" width="1999" height="1076" pivotX="63.9" pivotY="316.35" frameX="-48" frameY="-301" frameWidth="2137" frameHeight="1477"/>
+	<SubTexture name="fuckassdustfront0001" x="15" y="1339" width="1932" height="1206" frameX="0" frameY="-271" frameWidth="2137" frameHeight="1477"/>
+	<SubTexture name="fuckassdustfront0002" x="2166" y="15" width="1886" height="993" frameX="-22" frameY="-361" frameWidth="2137" frameHeight="1477"/>
+	<SubTexture name="fuckassdustfront0003" x="15" y="15" width="2136" height="1309" frameX="-1" frameY="0" frameWidth="2137" frameHeight="1477"/>
+	<SubTexture name="fuckassdustfront0004" x="1962" y="2430" width="1841" height="1006" frameX="-110" frameY="-330" frameWidth="2137" frameHeight="1477"/>
+</TextureAtlas>

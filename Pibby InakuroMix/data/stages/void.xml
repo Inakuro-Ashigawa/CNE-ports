@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/void/" name="void" zoom="2">
+	<sprite x="0" scroll="0.6" sprite="void" y="-200" scale="2.5" name="bg"/>
+	<sprite x="100" scroll="1" sprite="gumballglitchbg" y="-100" alpha="0.0001" scale="5" name="glitch"/>
+	<sprite x="0" scroll="1.1" sprite="Ilustracion_sin_titulo-4" y="-200" scale="2.5" name="rock"/>
+	<sprite x="0" scroll="1.1" sprite="Ilustracion_sin_titulo-5" y="-200" scale="2.5" name="rock2"/>
+	<sprite x="0" scroll="1.1" sprite="Ilustracion_sin_titulo-6" y="-200" scale="2.5" name="rock3"/>
+	<sprite x="200" scroll="0.85" sprite="Ilustracion_sin_titulo-2" y="0" scale="2.5" name="house"/>
+	<sprite x="0" scroll="1" sprite="Ilustracion_sin_titulo-3" y="-150" scale="2.5" name="platform"/>
+	<gf x="920" scroll="1" y="-55" camy="400" zoom="0.7"/>
+	<dad x="150" zoom="0.7" y="50"/>
+	<boyfriend camy="450" x="970" zoom="0.7" y="-25"/>
+	<sprite x="150" scroll="1.1" sprite="Ilustracion_sin_titulo-7" y="-200" scale="2.55" name="things"/>
+	<combo x="425.5" y="198.5"/>
+</stage>

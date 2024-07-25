@@ -51,7 +51,6 @@ function onCameraMove() {
     if (allowedRotation) desiredAngle = (isDad ? -2 : 2);
     heStares.animation.play(isDad ? 'L' : 'R');
 }
-
 function create() {
     boyfriend.cameraOffset.y = 200;
     dad.cameraOffset.y = -100;

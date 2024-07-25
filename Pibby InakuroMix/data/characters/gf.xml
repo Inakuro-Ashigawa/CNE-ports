@@ -1,0 +1,21 @@
+<!DOCTYPE codename-engine-character>
+<character x="140" y="240" sprite="ChibiGF-V2" camx="-360" camy="40" isPlayer="true" icon="gf" color="#EB64A1" holdTime="6.1" isGF="true">
+	<anim name="singUPmiss" anim="upMISS" x="-5" y="58" fps="24" loop="false"/>
+	<anim name="firstDeath" anim="firstDeath" x="-66" y="-5" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="deathLoop" x="-65" y="-5" fps="24" loop="false"/>
+	<anim name="deathConfirm" anim="deathConfirm" x="-65" y="-5" fps="24" loop="true"/>
+	<anim name="danceLeft" anim="gfDanceLeft" x="0" y="0" fps="24" loop="false"/>
+	<anim name="danceRight" anim="gfDanceRight" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="rightMISS" x="81" y="-35" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="downMISS" x="-42" y="-13" fps="24" loop="false"/>
+	<anim name="singUP" anim="GFup" x="-18" y="28" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="GFdown" x="-37" y="-27" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="GFleft" x="-69" y="-12" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="GFright" x="83" y="-32" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="left MISS" x="-67" y="-10" fps="24" loop="false"/>
+	<anim name="gf pre attack" anim="gf pre attack" x="-70" y="-37" fps="24" loop="false"/>
+	<anim name="gf attack" anim="gf attack" x="33" y="-45" fps="24" loop="false"/>
+	<anim name="gf dodge" anim="gf dodge" x="17" y="-29" fps="24" loop="false"/>
+	<anim name="gf hit" anim="gf hit" x="60" y="-28" fps="24" loop="false"/>
+	<anim name="hey" anim="hey" x="-20" y="-7" fps="24" loop="false"/>
+</character>

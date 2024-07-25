@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="muffingo.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="muffingo0000" x="15" y="310" width="1903" height="280" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0001" x="15" y="15" width="1904" height="280" frameX="-86" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0002" x="15" y="15" width="1904" height="280" frameX="-173" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0003" x="15" y="15" width="1904" height="280" frameX="-260" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0004" x="15" y="15" width="1904" height="280" frameX="-346" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0005" x="15" y="15" width="1904" height="280" frameX="-433" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0006" x="15" y="15" width="1904" height="280" frameX="-520" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0007" x="15" y="15" width="1904" height="280" frameX="-606" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0008" x="15" y="15" width="1904" height="280" frameX="-693" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0009" x="15" y="15" width="1904" height="280" frameX="-780" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0010" x="15" y="15" width="1904" height="280" frameX="-866" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0011" x="15" y="15" width="1904" height="280" frameX="-953" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0012" x="15" y="15" width="1904" height="280" frameX="-1040" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0013" x="15" y="15" width="1904" height="280" frameX="-1126" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0014" x="15" y="15" width="1904" height="280" frameX="-1213" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0015" x="15" y="15" width="1904" height="280" frameX="-1300" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0016" x="15" y="15" width="1904" height="280" frameX="-1386" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0017" x="15" y="15" width="1904" height="280" frameX="-1473" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0018" x="15" y="15" width="1904" height="280" frameX="-1560" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0019" x="15" y="15" width="1904" height="280" frameX="-1646" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0020" x="15" y="15" width="1904" height="280" frameX="-1733" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0021" x="15" y="15" width="1904" height="280" frameX="-1820" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0022" x="15" y="15" width="1904" height="280" frameX="-1906" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0023" x="15" y="15" width="1904" height="280" frameX="-1993" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0024" x="15" y="15" width="1904" height="280" frameX="-2080" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0025" x="15" y="15" width="1904" height="280" frameX="-2166" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0026" x="15" y="15" width="1904" height="280" frameX="-2253" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0027" x="15" y="15" width="1904" height="280" frameX="-2340" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0028" x="15" y="15" width="1904" height="280" frameX="-2426" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0029" x="15" y="15" width="1904" height="280" frameX="-2513" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0030" x="15" y="15" width="1904" height="280" frameX="-2600" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0031" x="15" y="15" width="1904" height="280" frameX="-2686" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0032" x="15" y="15" width="1904" height="280" frameX="-2773" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0033" x="15" y="15" width="1904" height="280" frameX="-2860" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0034" x="15" y="15" width="1904" height="280" frameX="-2946" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0035" x="15" y="15" width="1904" height="280" frameX="-3033" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0036" x="15" y="15" width="1904" height="280" frameX="-3120" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0037" x="15" y="15" width="1904" height="280" frameX="-3206" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0038" x="15" y="15" width="1904" height="280" frameX="-3293" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0039" x="15" y="15" width="1904" height="280" frameX="-3380" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0040" x="15" y="15" width="1904" height="280" frameX="-3466" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0041" x="15" y="15" width="1904" height="280" frameX="-3553" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0042" x="15" y="15" width="1904" height="280" frameX="-3640" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0043" x="15" y="15" width="1904" height="280" frameX="-3726" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0044" x="15" y="15" width="1904" height="280" frameX="-3813" frameY="0" frameWidth="5803" frameHeight="280"/>
+	<SubTexture name="muffingo0045" x="15" y="310" width="1903" height="280" frameX="-3900" frameY="0" frameWidth="5803" frameHeight="280"/>
+</TextureAtlas>

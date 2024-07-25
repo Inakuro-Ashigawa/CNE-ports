@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="newguy" scale="1.5" camx="150" camy="180" icon="asdfguy" color="#5D5D5D">
+	<anim name="idle" anim="idle" x="-39" y="-227" fps="24" loop="true"/>
+	<anim name="singUP" anim="up" x="-53" y="-138" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down" x="-37" y="-404" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left" x="149" y="-216" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right" x="-71" y="-262" fps="24" loop="false"/>
+	<anim name="twiddle" anim="transform" x="-43" y="-145" fps="18" loop="false"/>
+</character>

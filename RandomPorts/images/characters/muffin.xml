@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="muffin.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="meft0000" x="15" y="482" width="125" height="125" pivotX="0" pivotY="0" frameX="0" frameY="-3" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft0001" x="15" y="482" width="125" height="125" frameX="0" frameY="-3" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft0002" x="859" y="471" width="125" height="128" frameX="-3" frameY="0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft0003" x="859" y="471" width="125" height="128" frameX="-3" frameY="0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft0004" x="859" y="471" width="125" height="128" frameX="-3" frameY="0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft0005" x="859" y="471" width="125" height="128" frameX="-3" frameY="0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft0006" x="859" y="471" width="125" height="128" frameX="-3" frameY="0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft0007" x="859" y="471" width="125" height="128" frameX="-3" frameY="0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft0008" x="859" y="471" width="125" height="128" frameX="-3" frameY="0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft0009" x="859" y="471" width="125" height="128" frameX="-3" frameY="0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft0010" x="859" y="471" width="125" height="128" frameX="-3" frameY="0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft0011" x="859" y="471" width="125" height="128" frameX="-3" frameY="0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft0012" x="859" y="471" width="125" height="128" frameX="-3" frameY="0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft0013" x="859" y="471" width="125" height="128" frameX="-3" frameY="0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="meft20000" x="452" y="314" width="116" height="145" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="meft20001" x="452" y="314" width="116" height="145" frameX="0" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="meft20002" x="728" y="325" width="116" height="144" frameX="-4" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="meft20003" x="728" y="325" width="116" height="144" frameX="-4" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="meft20004" x="728" y="325" width="116" height="144" frameX="-4" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="meft20005" x="728" y="325" width="116" height="144" frameX="-4" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="meft20006" x="728" y="325" width="116" height="144" frameX="-4" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="meft20007" x="728" y="325" width="116" height="144" frameX="-4" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="meft20008" x="728" y="325" width="116" height="144" frameX="-4" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="meft20009" x="728" y="325" width="116" height="144" frameX="-4" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="meft20010" x="728" y="325" width="116" height="144" frameX="-4" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="meft20011" x="728" y="325" width="116" height="144" frameX="-4" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="meft20012" x="728" y="325" width="116" height="144" frameX="-4" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="meft20013" x="728" y="325" width="116" height="144" frameX="-4" frameY="0" frameWidth="120" frameHeight="145"/>
+	<SubTexture name="midle0000" x="298" y="317" width="129" height="130" pivotX="0" pivotY="0" frameX="0" frameY="-3" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle0001" x="298" y="317" width="129" height="130" frameX="0" frameY="-3" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle0002" x="859" y="325" width="126" height="131" frameX="-2" frameY="-2" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle0003" x="859" y="325" width="126" height="131" frameX="-2" frameY="-2" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle0004" x="148" y="334" width="124" height="133" frameX="-2" frameY="0" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle0005" x="148" y="334" width="124" height="133" frameX="-2" frameY="0" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle0006" x="583" y="344" width="124" height="133" frameX="-2" frameY="0" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle0007" x="583" y="344" width="124" height="133" frameX="-2" frameY="0" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle0008" x="583" y="344" width="124" height="133" frameX="-2" frameY="0" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle0009" x="583" y="344" width="124" height="133" frameX="-2" frameY="0" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle0010" x="583" y="344" width="124" height="133" frameX="-2" frameY="0" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle0011" x="583" y="344" width="124" height="133" frameX="-2" frameY="0" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle0012" x="583" y="344" width="124" height="133" frameX="-2" frameY="0" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle0013" x="583" y="344" width="124" height="133" frameX="-2" frameY="0" frameWidth="129" frameHeight="133"/>
+	<SubTexture name="midle20000" x="745" y="168" width="130" height="142" pivotX="1.15" pivotY="0" frameX="-1" frameY="-2" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="midle20001" x="745" y="168" width="130" height="142" frameX="-1" frameY="-2" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="midle20002" x="311" y="15" width="132" height="142" frameX="0" frameY="-2" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="midle20003" x="311" y="15" width="132" height="142" frameX="0" frameY="-2" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="midle20004" x="15" y="15" width="131" height="144" frameX="-1" frameY="0" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="midle20005" x="15" y="15" width="131" height="144" frameX="-1" frameY="0" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="midle20006" x="458" y="15" width="130" height="144" frameX="-1" frameY="0" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="midle20007" x="458" y="15" width="130" height="144" frameX="-1" frameY="0" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="midle20008" x="458" y="15" width="130" height="144" frameX="-1" frameY="0" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="midle20009" x="458" y="15" width="130" height="144" frameX="-1" frameY="0" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="midle20010" x="458" y="15" width="130" height="144" frameX="-1" frameY="0" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="midle20011" x="458" y="15" width="130" height="144" frameX="-1" frameY="0" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="midle20012" x="458" y="15" width="130" height="144" frameX="-1" frameY="0" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="midle20013" x="458" y="15" width="130" height="144" frameX="-1" frameY="0" frameWidth="132" frameHeight="144"/>
+	<SubTexture name="might0000" x="428" y="474" width="124" height="129" pivotX="0" pivotY="0" frameX="-6" frameY="-1" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might0001" x="428" y="474" width="124" height="129" frameX="-6" frameY="-1" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might0002" x="287" y="462" width="126" height="130" frameX="0" frameY="0" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might0003" x="287" y="462" width="126" height="130" frameX="0" frameY="0" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might0004" x="287" y="462" width="126" height="130" frameX="0" frameY="0" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might0005" x="287" y="462" width="126" height="130" frameX="0" frameY="0" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might0006" x="287" y="462" width="126" height="130" frameX="0" frameY="0" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might0007" x="287" y="462" width="126" height="130" frameX="0" frameY="0" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might0008" x="287" y="462" width="126" height="130" frameX="0" frameY="0" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might0009" x="287" y="462" width="126" height="130" frameX="0" frameY="0" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might0010" x="287" y="462" width="126" height="130" frameX="0" frameY="0" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might0011" x="287" y="462" width="126" height="130" frameX="0" frameY="0" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might0012" x="287" y="462" width="126" height="130" frameX="0" frameY="0" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might0013" x="287" y="462" width="126" height="130" frameX="0" frameY="0" frameWidth="130" frameHeight="130"/>
+	<SubTexture name="might20000" x="745" y="15" width="135" height="138" pivotX="0" pivotY="0" frameX="-4" frameY="-1" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="might20001" x="745" y="15" width="135" height="138" frameX="-4" frameY="-1" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="might20002" x="161" y="15" width="135" height="139" frameX="0" frameY="0" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="might20003" x="161" y="15" width="135" height="139" frameX="0" frameY="0" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="might20004" x="161" y="15" width="135" height="139" frameX="0" frameY="0" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="might20005" x="161" y="15" width="135" height="139" frameX="0" frameY="0" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="might20006" x="161" y="15" width="135" height="139" frameX="0" frameY="0" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="might20007" x="161" y="15" width="135" height="139" frameX="0" frameY="0" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="might20008" x="161" y="15" width="135" height="139" frameX="0" frameY="0" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="might20009" x="161" y="15" width="135" height="139" frameX="0" frameY="0" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="might20010" x="161" y="15" width="135" height="139" frameX="0" frameY="0" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="might20011" x="161" y="15" width="135" height="139" frameX="0" frameY="0" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="might20012" x="161" y="15" width="135" height="139" frameX="0" frameY="0" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="might20013" x="161" y="15" width="135" height="139" frameX="0" frameY="0" frameWidth="139" frameHeight="139"/>
+	<SubTexture name="mown0000" x="452" y="174" width="135" height="125" pivotX="0" pivotY="0" frameX="-5" frameY="-5" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown0001" x="452" y="174" width="135" height="125" frameX="-5" frameY="-5" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown0002" x="298" y="172" width="139" height="130" frameX="0" frameY="0" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown0003" x="298" y="172" width="139" height="130" frameX="0" frameY="0" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown0004" x="298" y="172" width="139" height="130" frameX="0" frameY="0" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown0005" x="298" y="172" width="139" height="130" frameX="0" frameY="0" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown0006" x="298" y="172" width="139" height="130" frameX="0" frameY="0" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown0007" x="298" y="172" width="139" height="130" frameX="0" frameY="0" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown0008" x="298" y="172" width="139" height="130" frameX="0" frameY="0" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown0009" x="298" y="172" width="139" height="130" frameX="0" frameY="0" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown0010" x="298" y="172" width="139" height="130" frameX="0" frameY="0" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown0011" x="298" y="172" width="139" height="130" frameX="0" frameY="0" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown0012" x="298" y="172" width="139" height="130" frameX="0" frameY="0" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown0013" x="298" y="172" width="139" height="130" frameX="0" frameY="0" frameWidth="140" frameHeight="130"/>
+	<SubTexture name="mown20000" x="722" y="484" width="120" height="130" pivotX="0" pivotY="0" frameX="0" frameY="-4" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mown20001" x="722" y="484" width="120" height="130" frameX="0" frameY="-4" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mown20002" x="155" y="482" width="111" height="134" frameX="-4" frameY="0" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mown20003" x="155" y="482" width="111" height="134" frameX="-4" frameY="0" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mown20004" x="155" y="482" width="111" height="134" frameX="-4" frameY="0" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mown20005" x="155" y="482" width="111" height="134" frameX="-4" frameY="0" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mown20006" x="155" y="482" width="111" height="134" frameX="-4" frameY="0" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mown20007" x="155" y="482" width="111" height="134" frameX="-4" frameY="0" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mown20008" x="155" y="482" width="111" height="134" frameX="-4" frameY="0" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mown20009" x="155" y="482" width="111" height="134" frameX="-4" frameY="0" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mown20010" x="155" y="482" width="111" height="134" frameX="-4" frameY="0" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mown20011" x="155" y="482" width="111" height="134" frameX="-4" frameY="0" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mown20012" x="155" y="482" width="111" height="134" frameX="-4" frameY="0" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mown20013" x="155" y="482" width="111" height="134" frameX="-4" frameY="0" frameWidth="120" frameHeight="134"/>
+	<SubTexture name="mup0000" x="161" y="169" width="122" height="150" pivotX="0" pivotY="0" frameX="-2" frameY="0" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup0001" x="161" y="169" width="122" height="150" frameX="-2" frameY="0" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup0002" x="603" y="15" width="127" height="147" frameX="0" frameY="-3" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup0003" x="603" y="15" width="127" height="147" frameX="0" frameY="-3" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup0004" x="603" y="15" width="127" height="147" frameX="0" frameY="-3" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup0005" x="603" y="15" width="127" height="147" frameX="0" frameY="-3" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup0006" x="603" y="15" width="127" height="147" frameX="0" frameY="-3" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup0007" x="603" y="15" width="127" height="147" frameX="0" frameY="-3" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup0008" x="603" y="15" width="127" height="147" frameX="0" frameY="-3" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup0009" x="603" y="15" width="127" height="147" frameX="0" frameY="-3" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup0010" x="603" y="15" width="127" height="147" frameX="0" frameY="-3" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup0011" x="603" y="15" width="127" height="147" frameX="0" frameY="-3" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup0012" x="603" y="15" width="127" height="147" frameX="0" frameY="-3" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup0013" x="603" y="15" width="127" height="147" frameX="0" frameY="-3" frameWidth="127" frameHeight="150"/>
+	<SubTexture name="mup20000" x="602" y="177" width="111" height="152" pivotX="0" pivotY="0" frameX="-4" frameY="0" frameWidth="118" frameHeight="152"/>
+	<SubTexture name="mup20001" x="602" y="177" width="111" height="152" frameX="-4" frameY="0" frameWidth="118" frameHeight="152"/>
+	<SubTexture name="mup20002" x="15" y="174" width="118" height="150" frameX="0" frameY="-2" frameWidth="118" frameHeight="152"/>
+	<SubTexture name="mup20003" x="15" y="174" width="118" height="150" frameX="0" frameY="-2" frameWidth="118" frameHeight="152"/>
+	<SubTexture name="mup20004" x="15" y="174" width="118" height="150" frameX="0" frameY="-2" frameWidth="118" frameHeight="152"/>
+	<SubTexture name="mup20005" x="15" y="174" width="118" height="150" frameX="0" frameY="-2" frameWidth="118" frameHeight="152"/>
+	<SubTexture name="mup20006" x="15" y="174" width="118" height="150" frameX="0" frameY="-2" frameWidth="118" frameHeight="152"/>
+	<SubTexture name="mup20007" x="15" y="174" width="118" height="150" frameX="0" frameY="-2" frameWidth="118" frameHeight="152"/>
+	<SubTexture name="mup20008" x="15" y="174" width="118" height="150" frameX="0" frameY="-2" frameWidth="118" frameHeight="152"/>
+	<SubTexture name="mup20009" x="15" y="174" width="118" height="150" frameX="0" frameY="-2" frameWidth="118" frameHeight="152"/>
+	<SubTexture name="mup20010" x="15" y="174" width="118" height="150" frameX="0" frameY="-2" frameWidth="118" frameHeight="152"/>
+	<SubTexture name="mup20011" x="15" y="174" width="118" height="150" frameX="0" frameY="-2" frameWidth="118" frameHeight="152"/>
+	<SubTexture name="mup20012" x="15" y="174" width="118" height="150" frameX="0" frameY="-2" frameWidth="118" frameHeight="152"/>
+	<SubTexture name="mup20013" x="15" y="174" width="118" height="150" frameX="0" frameY="-2" frameWidth="118" frameHeight="152"/>
+</TextureAtlas>

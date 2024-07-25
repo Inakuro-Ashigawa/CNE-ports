@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nostalgiaguy.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="geft0000" x="15" y="15" width="323" height="528" pivotX="0" pivotY="0" frameX="0" frameY="-1" frameWidth="325" frameHeight="529"/>
+	<SubTexture name="geft0001" x="15" y="15" width="323" height="528" frameX="0" frameY="-1" frameWidth="325" frameHeight="529"/>
+	<SubTexture name="geft0002" x="15" y="558" width="306" height="529" frameX="-19" frameY="0" frameWidth="325" frameHeight="529"/>
+	<SubTexture name="geft0003" x="15" y="558" width="306" height="529" frameX="-19" frameY="0" frameWidth="325" frameHeight="529"/>
+	<SubTexture name="geft0004" x="15" y="558" width="306" height="529" frameX="-19" frameY="0" frameWidth="325" frameHeight="529"/>
+	<SubTexture name="geft0005" x="15" y="558" width="306" height="529" frameX="-19" frameY="0" frameWidth="325" frameHeight="529"/>
+	<SubTexture name="geft0006" x="15" y="558" width="306" height="529" frameX="-19" frameY="0" frameWidth="325" frameHeight="529"/>
+	<SubTexture name="geft0007" x="15" y="558" width="306" height="529" frameX="-19" frameY="0" frameWidth="325" frameHeight="529"/>
+	<SubTexture name="geft0008" x="15" y="1102" width="297" height="528" frameX="-28" frameY="-1" frameWidth="325" frameHeight="529"/>
+	<SubTexture name="geft0009" x="15" y="1102" width="297" height="528" frameX="-28" frameY="-1" frameWidth="325" frameHeight="529"/>
+	<SubTexture name="gidle0000" x="1142" y="531" width="233" height="500" pivotX="0" pivotY="0" frameX="-11" frameY="-11" frameWidth="244" frameHeight="511"/>
+	<SubTexture name="gidle0001" x="1142" y="531" width="233" height="500" frameX="-11" frameY="-11" frameWidth="244" frameHeight="511"/>
+	<SubTexture name="gidle0002" x="887" y="541" width="240" height="506" frameX="-4" frameY="-5" frameWidth="244" frameHeight="511"/>
+	<SubTexture name="gidle0003" x="887" y="541" width="240" height="506" frameX="-4" frameY="-5" frameWidth="244" frameHeight="511"/>
+	<SubTexture name="gidle0004" x="628" y="544" width="244" height="511"/>
+	<SubTexture name="gidle0005" x="628" y="544" width="244" height="511"/>
+	<SubTexture name="gidle0006" x="647" y="15" width="244" height="511"/>
+	<SubTexture name="gidle0007" x="647" y="15" width="244" height="511"/>
+	<SubTexture name="gidle0008" x="647" y="15" width="244" height="511"/>
+	<SubTexture name="gidle0009" x="647" y="15" width="244" height="511"/>
+	<SubTexture name="gidle0010" x="647" y="15" width="244" height="511"/>
+	<SubTexture name="gidle0011" x="647" y="15" width="244" height="511"/>
+	<SubTexture name="gidle0012" x="647" y="15" width="244" height="511"/>
+	<SubTexture name="gidle0013" x="647" y="15" width="244" height="511"/>
+	<SubTexture name="gight0000" x="353" y="15" width="279" height="514" pivotX="0" pivotY="0" frameX="0" frameY="-9" frameWidth="279" frameHeight="523"/>
+	<SubTexture name="gight0001" x="353" y="15" width="279" height="514" frameX="0" frameY="-9" frameWidth="279" frameHeight="523"/>
+	<SubTexture name="gight0002" x="327" y="1102" width="278" height="523" frameX="0" frameY="0" frameWidth="279" frameHeight="523"/>
+	<SubTexture name="gight0003" x="327" y="1102" width="278" height="523" frameX="0" frameY="0" frameWidth="279" frameHeight="523"/>
+	<SubTexture name="gight0004" x="327" y="1102" width="278" height="523" frameX="0" frameY="0" frameWidth="279" frameHeight="523"/>
+	<SubTexture name="gight0005" x="327" y="1102" width="278" height="523" frameX="0" frameY="0" frameWidth="279" frameHeight="523"/>
+	<SubTexture name="gight0006" x="327" y="1102" width="278" height="523" frameX="0" frameY="0" frameWidth="279" frameHeight="523"/>
+	<SubTexture name="gight0007" x="327" y="1102" width="278" height="523" frameX="0" frameY="0" frameWidth="279" frameHeight="523"/>
+	<SubTexture name="gight0008" x="336" y="558" width="277" height="522" frameX="0" frameY="-1" frameWidth="279" frameHeight="523"/>
+	<SubTexture name="gight0009" x="336" y="558" width="277" height="522" frameX="0" frameY="-1" frameWidth="279" frameHeight="523"/>
+	<SubTexture name="gown0000" x="1155" y="15" width="243" height="468" pivotX="0" pivotY="0" frameX="0" frameY="-33" frameWidth="243" frameHeight="501"/>
+	<SubTexture name="gown0001" x="1155" y="15" width="243" height="468" frameX="0" frameY="-33" frameWidth="243" frameHeight="501"/>
+	<SubTexture name="gown0002" x="1366" y="1046" width="231" height="481" frameX="-5" frameY="-20" frameWidth="243" frameHeight="501"/>
+	<SubTexture name="gown0003" x="1366" y="1046" width="231" height="481" frameX="-5" frameY="-20" frameWidth="243" frameHeight="501"/>
+	<SubTexture name="gown0004" x="1366" y="1046" width="231" height="481" frameX="-5" frameY="-20" frameWidth="243" frameHeight="501"/>
+	<SubTexture name="gown0005" x="1366" y="1046" width="231" height="481" frameX="-5" frameY="-20" frameWidth="243" frameHeight="501"/>
+	<SubTexture name="gown0006" x="1366" y="1046" width="231" height="481" frameX="-5" frameY="-20" frameWidth="243" frameHeight="501"/>
+	<SubTexture name="gown0007" x="1366" y="1046" width="231" height="481" frameX="-5" frameY="-20" frameWidth="243" frameHeight="501"/>
+	<SubTexture name="gown0008" x="906" y="15" width="234" height="501" frameX="-2" frameY="0" frameWidth="243" frameHeight="501"/>
+	<SubTexture name="gown0009" x="906" y="15" width="234" height="501" frameX="-2" frameY="0" frameWidth="243" frameHeight="501"/>
+	<SubTexture name="gup0000" x="620" y="1095" width="237" height="544" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="244" frameHeight="544"/>
+	<SubTexture name="gup0001" x="620" y="1095" width="237" height="544" frameX="0" frameY="0" frameWidth="244" frameHeight="544"/>
+	<SubTexture name="gup0002" x="872" y="1070" width="235" height="530" frameX="-9" frameY="-14" frameWidth="244" frameHeight="544"/>
+	<SubTexture name="gup0003" x="872" y="1070" width="235" height="530" frameX="-9" frameY="-14" frameWidth="244" frameHeight="544"/>
+	<SubTexture name="gup0004" x="872" y="1070" width="235" height="530" frameX="-9" frameY="-14" frameWidth="244" frameHeight="544"/>
+	<SubTexture name="gup0005" x="872" y="1070" width="235" height="530" frameX="-9" frameY="-14" frameWidth="244" frameHeight="544"/>
+	<SubTexture name="gup0006" x="872" y="1070" width="235" height="530" frameX="-9" frameY="-14" frameWidth="244" frameHeight="544"/>
+	<SubTexture name="gup0007" x="872" y="1070" width="235" height="530" frameX="-9" frameY="-14" frameWidth="244" frameHeight="544"/>
+	<SubTexture name="gup0008" x="1122" y="1062" width="229" height="523" frameX="-15" frameY="-21" frameWidth="244" frameHeight="544"/>
+	<SubTexture name="gup0009" x="1122" y="1062" width="229" height="523" frameX="-15" frameY="-21" frameWidth="244" frameHeight="544"/>
+</TextureAtlas>

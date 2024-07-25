@@ -1,0 +1,15 @@
+<!DOCTYPE codename-mod-options>
+<menu name="Port Pack" desc="Funny shits">
+
+  <checkbox id="Videos" name="Videos" desc="If checked, Videos will be loaded"/>
+
+  <menu name="Pibby-Apocalypse" desc="shits for Pibby-Apocalypse">
+          <checkbox id="pibbyCursor" name="Glichy mouse" desc="If checked, a Glichy mouse will replace your system cursor"/>
+	<checkbox id="PAmenus" name="Pibby-Apocalypse Menus" desc="If checked, will change some of the menus to those from Pibby-Apocalypse."/>
+  </menu>
+   <menu name="RodentRap" desc="shits for RodentRap">
+	<checkbox id="customCursor" name="Custom Cursor" desc="If checked, a custom cursor will replace your system cursor"/>
+	<checkbox id="botplay" name="Botplay" desc="If checked, a bot will play the game for you."/>
+	<checkbox id="RTmenus" name="RodentRap Menus" desc="If checked, will change some of the menus to those from RodentRap."/>
+   </menu>
+</menu>

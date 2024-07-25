@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="-80" y="520" sprite="gameover" camx="-565" camy="-540" isPlayer="true" icon="muffin2">
+	<anim name="firstDeath" anim="death" x="586" y="407" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="gameoverloop" x="185" y="208" fps="24" loop="true"/>
+	<anim name="deathConfirm" anim="confirm" x="277" y="255" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="head.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="head0000" x="15" y="454" width="269" height="416" pivotX="3.7" pivotY="5.2" frameX="-1" frameY="-4" frameWidth="271" frameHeight="424"/>
+	<SubTexture name="head0001" x="15" y="454" width="269" height="416" frameX="-1" frameY="-4" frameWidth="271" frameHeight="424"/>
+	<SubTexture name="head0002" x="15" y="454" width="269" height="416" frameX="-1" frameY="-4" frameWidth="271" frameHeight="424"/>
+	<SubTexture name="head0003" x="15" y="15" width="271" height="424"/>
+	<SubTexture name="head0004" x="15" y="15" width="271" height="424"/>
+	<SubTexture name="head0005" x="15" y="15" width="271" height="424"/>
+</TextureAtlas>

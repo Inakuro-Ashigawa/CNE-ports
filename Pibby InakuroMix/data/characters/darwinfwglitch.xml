@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" icon="darwin_corrupted" camx="260" y="450" isGF="false" scale="1.2" camy="-90" color="#FF784B" flipX="true" isPlayer="true" sprite="darwin-fwglitch">
+	<anim x="58" loop="false" y="25" fps="24" anim="dl" name="singLEFT"/>
+	<anim x="-65" loop="false" y="48" fps="24" anim="dr" name="singRIGHT"/>
+	<anim x="26" loop="false" y="1" fps="24" anim="dd" name="singDOWN"/>
+	<anim x="7" loop="false" y="69" fps="24" anim="du" name="singUP"/>
+	<anim x="0" loop="true" y="30" fps="24" anim="di" name="idle"/>
+</character>

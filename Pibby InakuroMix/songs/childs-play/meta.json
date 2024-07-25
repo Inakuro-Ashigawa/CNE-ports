@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 180,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": false,
+	"parsedColor": -1,
+	"displayName": "Childs PLay",
+	"icon": "gumballfake",
+	"name": "childs-play",
+	"color": "#FFFFFF"
+}

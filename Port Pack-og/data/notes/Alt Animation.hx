@@ -1,0 +1,1 @@
+function onNoteHit(event) {if (event.noteType == "Alt Animation") event.animSuffix = "-alt";}
